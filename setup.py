@@ -167,7 +167,7 @@ setup_args = dict(
     },
     install_requires=[
         "cryptography==1.5.2",
-        "PyYAML==3.11",
+        "PyYAML==5.4",
         "binplist==0.1.4",
         "ipaddr==2.1.11",
         "ipython==5.0.0",
